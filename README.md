@@ -1,0 +1,2 @@
+# nextCore_manyrepo_Koji
+複数repository 工事repository
